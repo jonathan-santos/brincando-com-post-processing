@@ -5,5 +5,7 @@
 !.gitignore
 !/Assets/
 !/ProjectSettings/
+!Builds/
+!index.html
 !README.md
 !LICENSE.md
